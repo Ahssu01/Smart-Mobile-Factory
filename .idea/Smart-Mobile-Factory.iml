@@ -107,6 +107,7 @@
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/symfony/service-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/dragonmantank/cron-expression" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/ixudra/curl" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

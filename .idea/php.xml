@@ -103,6 +103,7 @@
       <path value="$PROJECT_DIR$/backend/vendor/symfony/service-contracts" />
       <path value="$PROJECT_DIR$/backend/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/backend/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/backend/vendor/ixudra/curl" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
