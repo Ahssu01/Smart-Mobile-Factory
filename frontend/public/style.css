@@ -1,0 +1,14 @@
+#myChart{
+    width: 85% !important;
+    height: auto !important;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+input[type=date].form-control {
+    margin-left: 25px !important;
+}
+
+.btn{
+    margin-left: 25px !important;
+}
