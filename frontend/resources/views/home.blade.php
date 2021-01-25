@@ -10,7 +10,7 @@
 
             <input type="date" class="form-control" id="date_to" placeholder="Enter Ending Date" name="date_to" required>
 
-            <button type="submit" class="btn btn-primary">Render</button>
+            <button type="submit" class="btn btn-primary" value="Render">Render</button>
         </form>
     </div>
 
