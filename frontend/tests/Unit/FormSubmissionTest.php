@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests\Feature;
+namespace Tests\Unit;
 
 
 use Laravel\BrowserKitTesting\TestCase as BaseTestCase;

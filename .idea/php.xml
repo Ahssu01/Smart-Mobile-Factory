@@ -104,6 +104,8 @@
       <path value="$PROJECT_DIR$/backend/vendor/dragonmantank/cron-expression" />
       <path value="$PROJECT_DIR$/backend/vendor/symfony/translation-contracts" />
       <path value="$PROJECT_DIR$/backend/vendor/ixudra/curl" />
+      <path value="$PROJECT_DIR$/backend/vendor/laravel/browser-kit-testing" />
+      <path value="$PROJECT_DIR$/backend/vendor/symfony/dom-crawler" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />

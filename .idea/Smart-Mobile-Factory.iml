@@ -108,6 +108,8 @@
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/dragonmantank/cron-expression" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/symfony/translation-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/backend/vendor/ixudra/curl" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/laravel/browser-kit-testing" />
+      <excludeFolder url="file://$MODULE_DIR$/backend/vendor/symfony/dom-crawler" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -18,4 +18,4 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::post('/price', 'PriceController@get_price');
+Route::post('/price', 'PriceController@get_price')->name('price');
